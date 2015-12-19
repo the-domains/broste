@@ -1,0 +1,28 @@
+name: Broste
+favicon: null
+layout_spectrum: 0.6275545230600983
+typography_spectrum: 0.3281234805472195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7242874498479068
+  lightness: 0.7444629792589694
+  saturation: 0.738884451566264
+  rhythmicContrast: 0.6949776816181839
+purpose: []
